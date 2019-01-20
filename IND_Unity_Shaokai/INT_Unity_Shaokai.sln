@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INT_Unity_Shaokai", "INT_Unity_Shaokai.csproj", "{6A533DA9-74BB-597E-8142-A2E324C33149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INT_Unity_Shaokai.Editor", "INT_Unity_Shaokai.Editor.csproj", "{01B2CC1B-2304-19A9-E580-37CB242AD589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A533DA9-74BB-597E-8142-A2E324C33149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A533DA9-74BB-597E-8142-A2E324C33149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A533DA9-74BB-597E-8142-A2E324C33149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A533DA9-74BB-597E-8142-A2E324C33149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B2CC1B-2304-19A9-E580-37CB242AD589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B2CC1B-2304-19A9-E580-37CB242AD589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B2CC1B-2304-19A9-E580-37CB242AD589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B2CC1B-2304-19A9-E580-37CB242AD589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
